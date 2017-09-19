@@ -1,0 +1,194 @@
+{
+  "statementGroups": [
+    {
+      "id": "e3e70682-c209-4cac-629f-6fbed82c07cd",
+      "beneficialOwnershipStatements": [
+        {
+          "id": "f7c1bd87-4da5-e709-d471-3d60c8a70639",
+          "statementDate": "2016-07-20",
+          "entity": {
+            "id": "f728b4fa-4248-5e3a-0a5d-2f346baa9455",
+            "statementDate": "2017-07-14",
+            "type": "registeredEntity",
+            "name": "ANGLIA MALTINGS (HOLDINGS) LIMITED",
+            "jurisdiction": "GB",
+            "identifiers": [
+              {
+                "id": "00031801",
+                "scheme": "GB-COH"
+              }
+            ],
+            "foundingDate": "1890-06-26",
+            "addresses": [
+              {
+                "type": "registered",
+                "address": "Great Ryburgh\nFakenham\nNorfolk",
+                "postCode": "NR21 7AS",
+                "country": "GB"
+              }
+            ],
+            "uri": "https://beta.companieshouse.gov.uk/company/00031801"
+          },
+          "interestedParty": {
+            "id": "eb1167b3-67a9-c378-7c65-c1e582e2e662",
+            "statementDate": "2016-07-20",
+            "type": "registeredEntity",
+            "name": "Ragleth Ltd",
+            "jurisdiction": "GB",
+            "identifiers": [
+              {
+                "id": "05498655",
+                "scheme": "GB-COH"
+              }
+            ],
+            "foundingDate": "2005-07-04",
+            "addresses": [
+              {
+                "type": "registered",
+                "address": "Great Ryburgh\nFakenham\nNorfolk",
+                "postCode": "NR21 7AS",
+                "country": "GB"
+              }
+            ],
+            "uri": "https://beta.companieshouse.gov.uk/companies/05498655"
+          },
+          "interests": [
+            {
+              "type": "shareholding",
+              "interestLevel": "direct",
+              "share": {
+                "maximum": 100.0,
+                "minimum": 75.0,
+                "exclusiveMinimum": true,
+                "exclusiveMaximum": false
+              }
+            },
+            {
+              "type": "voting-rights",
+              "interestLevel": "direct",
+              "share": {
+                "maximum": 100.0,
+                "minimum": 75.0,
+                "exclusiveMinimum": true,
+                "exclusiveMaximum": false
+              }
+            },
+            {
+              "type": "appointment-of-board",
+              "interestLevel": "direct"
+            },
+            {
+              "type": "influence-or-control",
+              "interestLevel": "direct"
+            }
+          ]
+        },
+        {
+          "id": "1846d424-c17c-6279-23c6-612f48268673",
+          "statementDate": "2016-07-20",
+          "entity": {
+            "id": "e443df78-9558-867f-5ba9-1faf7a024204",
+            "statementDate": "2017-07-04",
+            "type": "registeredEntity",
+            "name": "RAGLETH LIMITED",
+            "jurisdiction": "GB",
+            "identifiers": [
+              {
+                "id": "05498655",
+                "scheme": "GB-COH"
+              }
+            ],
+            "foundingDate": "2005-07-04",
+            "addresses": [
+              {
+                "type": "registered",
+                "address": "Great Ryburgh\nFakenham\nNorfolk",
+                "postCode": "NR21 7AS",
+                "country": "GB"
+              }
+            ],
+            "uri": "https://beta.companieshouse.gov.uk/company/05498655"
+          },
+          "interestedParty": {
+            "id": "23a7711a-8133-2876-37eb-dcd9e87a1613",
+            "type": "naturalPerson",
+            "statementDate": "2016-07-20",
+            "name": "The Honourable Edward Richard Iliffe The Honorable",
+            "alternateNames": [
+              {
+                "type": "detailed",
+                "fullName": "The Honourable Edward Richard Iliffe The Honorable",
+                "givenName": "Edward Richard",
+                "familyName": "Iliffe"
+              }
+            ],
+            "nationalities": [
+              "GB"
+            ],
+            "placeOfResidence": {
+              "type": "residence",
+              "country": "GB"
+            },
+            "birthDate": "1968-09",
+            "addresses": [
+              {
+                "type": "residence",
+                "address": "The Manor House\nThatcham\nBerkshire",
+                "postCode": "RG18 0UH",
+                "country": "GB"
+              }
+            ]
+          },
+          "interests": [
+            {
+              "type": "shareholding",
+              "interestLevel": "direct",
+              "share": {
+                "maximum": 50.0,
+                "minimum": 25.0,
+                "exclusiveMinimum": true,
+                "exclusiveMaximum": false
+              }
+            },
+            {
+              "type": "voting-rights",
+              "interestLevel": "direct",
+              "share": {
+                "maximum": 50.0,
+                "minimum": 25.0,
+                "exclusiveMinimum": true,
+                "exclusiveMaximum": false
+              }
+            }
+          ],
+          "source": {
+            "type": [
+              "officialRegister"
+            ],
+            "url": "https://beta.companieshouse.gov.uk/company/05498655/persons-with-significant-control",
+            "retrievedAt": "2017-09-19",
+            "assertedBy": [
+              {
+                "name": "RAGLETH LIMITED",
+                "uri": "https://beta.companieshouse.gov.uk/company/05498655"
+              }
+            ]
+          }
+        }
+      ],
+      "source": {
+        "type": [
+          "officialRegister"
+        ],
+        "url": "https://beta.companieshouse.gov.uk/company/00031801",
+        "retrievedAt": "2017-09-19",
+        "assertedBy": [
+          {
+            "name": "ANGLIA MALTINGS (HOLDINGS) LIMITED",
+            "uri": "https://beta.companieshouse.gov.uk/company/00031801"
+          }
+        ]
+      }
+    }
+  ]
+}
